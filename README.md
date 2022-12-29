@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/121407861/209951881-266fc51a-9648-408b-a3b3-629bcf7d2d57.png)
 
-Awesome React Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/awesome-fvm/awesome-fvm)
+Awesome FVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/awesome-fvm/awesome-fvm)
 
 A collection of awesome things to help you build on FVM and FEVM!
 
