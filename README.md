@@ -7,11 +7,21 @@ A collection of awesome things to help you build on FVM and FEVM!
 ## **Getting Started**
 
 ### FVM Basic resources:
-
-- [FEVM Key Concepts](https://fvm.filecoin.io/)
+- [Intro to Filecoin](https://docs.filecoin.io/about/basics/what-is-filecoin/)
+- [Intro to FVM](https://docs.filecoin.io/developers/smart-contracts/filecoin-virtual-machine/)
+- [FVM Use Cases](https://docs.filecoin.io/developers/smart-contracts/about/use-cases/)
+- [FEVM Key Concepts](https://docs.filecoin.io/developers/smart-contracts/concepts/filecoin-evm/)
 - [FVM Technical Specification](https://github.com/filecoin-project/fvm-specs#readme)
 - [Filecoin VM Architecture](https://github.com/filecoin-project/fvm-specs/blob/main/01-architecture.md)
 - [Filecoin VM Implementation](https://github.com/filecoin-project/ref-fvm/#readme)
+- [FAQs](https://docs.filecoin.io/developers/smart-contracts/about/faqs/)
+
+### Get Started With FVM
+- [Add to Metamask](https://docs.filecoin.io/developers/smart-contracts/how-tos/add-to-metamask/)
+- [Deploy a contract](https://docs.filecoin.io/developers/smart-contracts/how-tos/deploy-a-contract/)
+- [Invoke a contract](https://docs.filecoin.io/developers/smart-contracts/how-tos/invoke-a-contract/)
+- [Test a contract](https://docs.filecoin.io/developers/smart-contracts/how-tos/test-a-contract/)
+- [Use a faucet](https://docs.filecoin.io/developers/smart-contracts/how-tos/use-a-faucet/)
 
 ## **Projects**
 
