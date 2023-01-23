@@ -22,6 +22,8 @@ A collection of awesome things to help you build on FVM and FEVM!
 - [Invoke a contract](https://docs.filecoin.io/developers/smart-contracts/how-tos/invoke-a-contract/)
 - [Test a contract](https://docs.filecoin.io/developers/smart-contracts/how-tos/test-a-contract/)
 - [Use a faucet](https://docs.filecoin.io/developers/smart-contracts/how-tos/use-a-faucet/)
+- [Hyperspace Testnet](https://github.com/filecoin-project/testnet-hyperspace)
+- [Wallaby Testnet](https://github.com/filecoin-project/testnet-wallaby/)
 
 ## **Projects**
 
