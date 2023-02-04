@@ -9,6 +9,7 @@ A collection of awesome things to help you build on FVM and FEVM!
 ### FVM Basic resources:
 - [Intro to Filecoin](https://docs.filecoin.io/about/basics/what-is-filecoin/)
 - [Intro to FVM](https://docs.filecoin.io/developers/smart-contracts/filecoin-virtual-machine/)
+- [Quickstart](https://docs.filecoin.io/developers/smart-contracts/quickstart/)
 - [FVM Use Cases](https://docs.filecoin.io/developers/smart-contracts/about/use-cases/)
 - [FEVM Key Concepts](https://docs.filecoin.io/developers/smart-contracts/concepts/filecoin-evm/)
 - [FVM Technical Specification](https://github.com/filecoin-project/fvm-specs#readme)
