@@ -25,6 +25,9 @@ A collection of awesome things to help you build on FVM and FEVM!
 - [Use a faucet](https://docs.filecoin.io/developers/smart-contracts/how-tos/use-a-faucet/)
 - [Hyperspace Testnet](https://github.com/filecoin-project/testnet-hyperspace)
 - [Wallaby Testnet](https://github.com/filecoin-project/testnet-wallaby/)
+- [Interacting with the Filecoin Network (JSON-RPC API)](https://docs.filecoin.io/developers/reference/json-rpc/introduction/)
+- [Interacting with the Filecoin Network (Ethereum JSON-RPC API)](https://docs.filecoin.io/developers/reference/json-rpc/eth/)
+- [Ethereum API request methods for Hyperspace endpoint](https://api.hyperspace.node.glif.io/eth-rpc/)
 
 ### Block explorers
 - [Filfox](https://hyperspace.filfox.info/en)
