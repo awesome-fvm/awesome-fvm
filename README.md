@@ -34,6 +34,8 @@ A collection of awesome things to help you build on FVM and FEVM!
 
 [Spacescope API](https://spacescope.io/)
 
+[Spheron's Filecoin Naming Service SDK](https://www.npmjs.com/package/@spheron/fnslib)
+
 ### Block explorers
 - [Filfox](https://hyperspace.filfox.info/en)
 - [Filscan](https://hyperspace.filscan.io/)
