@@ -29,6 +29,7 @@ A collection of awesome things to help you build on FVM and FEVM!
 - [Interacting with the Filecoin Network (Ethereum JSON-RPC API)](https://docs.filecoin.io/developers/reference/json-rpc/eth/)
 - [Ethereum API request methods for Hyperspace endpoint](https://api.hyperspace.node.glif.io/eth-rpc/)
 - [Data DAO Use Cases](https://docs.filecoin.io/smart-contracts/fundamentals/the-filecoin-virtual-machine/)
+- [Front-end template for FEVM](https://github.com/collective-dao/collectif-fevm-frontend-template)
 
 ### FVM Tools
 [Lighthouse Kavach Access Control SDK](https://github.com/lighthouse-web3/encryption-sdk)
