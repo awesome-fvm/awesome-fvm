@@ -34,6 +34,7 @@ A collection of awesome things to help you build on FVM and FEVM!
 - [Data DAO Use Cases](https://docs.filecoin.io/smart-contracts/fundamentals/the-filecoin-virtual-machine/)
 - [Front-end template for FEVM](https://github.com/collective-dao/collectif-fevm-frontend-template)
 - [Filecoin Naming Service SDK](https://www.npmjs.com/package/@spheron/fnslib)
+- [State Channels](https://docs.statechannels.org/)
 
 ### FVM Tools
 [Lighthouse Kavach Access Control SDK](https://github.com/lighthouse-web3/encryption-sdk)
