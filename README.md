@@ -36,6 +36,8 @@ A collection of awesome things to help you build on FVM and FEVM!
 - [Filecoin Naming Service SDK](https://www.npmjs.com/package/@spheron/fnslib)
 - [State Channels](https://docs.statechannels.org/)
 - [Convert f4 addresses to 0x](https://github.com/zebul/fevm-f4-to-0x-address-converter/blob/180f9829c7691a597b5b52badd85e8ea743a726c/FEVM%20f4%20to%200x%20address%20converter)
+- [Storage Deal Example)(https://gist.github.com/aashidham/2534a39ac3d1f8f1ae8c85e2fc6177f1)
+
 
 ### FVM Tools
 [Lighthouse Kavach Access Control SDK](https://github.com/lighthouse-web3/encryption-sdk)
